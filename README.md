@@ -14,7 +14,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -32,8 +31,8 @@ location: ./images/screenshot.png
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://weilin93.github.io/order-summary-component/]
+- Solution URL: https://www.frontendmentor.io/solutions/html-site-using-html-and-css-TSId2cUWC
+- Live Site URL: https://weilin93.github.io/order-summary-component/
 
 ## My process
 
