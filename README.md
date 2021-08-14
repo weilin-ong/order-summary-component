@@ -56,7 +56,6 @@ I will continue deepen my html and css skills and discover better solutions.
 ### Useful resources
 
 - [resource from bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12287756#content) 
-- 
 
 ## Author
 
